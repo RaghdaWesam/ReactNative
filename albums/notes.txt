@@ -1,0 +1,22 @@
+run:
+  react-native run-android
+
+refresh:
+  double tab R
+
+open dev menu:
+  press ctrl + m
+
+View:
+  style, position  elements inside the application
+
+files:
+  1 file per component
+
+Debug:
+  ctrl + m then choose remote js debugging
+
+create new project:
+  react-native init auth  // create project named auth
+
+
